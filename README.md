@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I never say no for Coffee.
 
 ![Nitin github stats](https://github-readme-stats.vercel.app/api?username=nitinagrawalup)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinagrawalup&layout=compact)
