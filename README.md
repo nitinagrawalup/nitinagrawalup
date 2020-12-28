@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @nitinagrawalup on twitter.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I never say no for Coffee.
-<br/>
+
 [![Nitin github stats](https://github-readme-stats.vercel.app/api?username=nitinagrawalup)]
