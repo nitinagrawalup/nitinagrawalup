@@ -4,13 +4,13 @@
 <br>
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka23g&show_icons=true&locale=en" alt="anushka23g" /></p>
 <br>
-- 🔭 I’m currently working on my mini project Online Banking System (Cloud, HTML, CSS & JS).
-- 🌱 I’m currently learning Java & Data Structures.
-- 👯 I’m looking to collaborate on Web Dev projects.
-- 💬 Ask me about Java.
-- 📫 How to reach me: @nitinagrawalup on twitter.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I never say no for Coffee.
+🔭 I’m currently working on my mini project Online Banking System (Cloud, HTML, CSS & JS).<br/>
+🌱 I’m currently learning Java & Data Structures.<br/>
+👯 I’m looking to collaborate on Web Dev projects.<br/>
+💬 Ask me about Java.<br/>
+📫 How to reach me: @nitinagrawalup on twitter.<br/>
+😄 Pronouns: He/Him<br/>
+⚡ Fun fact: I never say no for Coffee.<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
