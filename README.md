@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nitin Agrawal</h1>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nitinagrawalupg&label=Profile%20views&color=0e75b6&style=flat" alt="nitinagrawalup" /> </p>
+<p align="center"> ![Nitin github stats](https://github-readme-stats.vercel.app/api?username=nitinagrawalup)</p>
 <br>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka23g&show_icons=true&locale=en" alt="anushka23g" /></p>
+<p align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinagrawalup&layout=compact)</p>
 <br>
 🔭 I’m currently working on my mini project Online Banking System (Cloud, HTML, CSS & JS).<br/>
 🌱 I’m currently learning Java & Data Structures.<br/>
