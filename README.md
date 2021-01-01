@@ -14,8 +14,24 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-<a href="https://linkedin.com/in/nitinagrawalup" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nitinagrawalup" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nitinagrawalup" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="nitinagrawalup" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nitinagrawalup/">
+  <img align="left" alt="Nitin Agrawal | LinkedIn" width="27px" src="https://raw.githubusercontent.com/nitinagrawalup/nitinagrawalup/main/icon/LinkedIn.webp" />
+</a>
+
+<a href="https://www.codechef.com/users/nitinagrawalup">
+  <img align="left" alt="Nitin Agrawal | CodeChef" width="27px" src="https://raw.githubusercontent.com/nitinagrawalup/nitinagrawalup/main/logo/CodeChef.jpg" />
+</a>
+
+<a href="https://leetcode.com/nitinagrawalup/">
+  <img align="left" alt="Nitin Agrawal | Leetcode" width="27px" src="https://raw.githubusercontent.com/nitinagrawalup/nitinagrawalup/main/logo/Leetcode.png" />
+</a>
+
+<a href="https://www.hackerrank.com/nitinagrawalup">
+  <img align="left" alt="Nitin Agrawal | HackerRank" width="27px" src="https://raw.githubusercontent.com/nitinagrawalup/nitinagrawalup/main/logo/HackerRank.png" />
+</a>
+<a href="https://www.instagram.com/nitinagrawalup">
+  <img align="left" alt="Nitin Agrawal | Instagram" width="27px" src="https://raw.githubusercontent.com/nitinagrawalup/nitinagrawalup/main/logo/Instagram.png" />
+</a>
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinagrawalup&" alt="nitinagrawalup" /></p>
