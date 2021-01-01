@@ -14,6 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
+
+<a href="https://twitter.com/nitinagrawalup">
+  <img align="left" alt="Nitin Agrawal | Twitter" width="27px" src="https://raw.githubusercontent.com/nitinagrawalup/nitinagrawalup/main/logo/Twitter.png" />
+</a>
+
 <a href="https://www.linkedin.com/in/nitinagrawalup/">
   <img align="left" alt="Nitin Agrawal | LinkedIn" width="27px" src="https://raw.githubusercontent.com/nitinagrawalup/nitinagrawalup/main/logo/LinkedIn.webp" />
 </a>
@@ -29,9 +34,11 @@
 <a href="https://www.hackerrank.com/nitinagrawalup">
   <img align="left" alt="Nitin Agrawal | HackerRank" width="27px" src="https://raw.githubusercontent.com/nitinagrawalup/nitinagrawalup/main/logo/HackerRank.png" />
 </a>
+
 <a href="https://www.instagram.com/nitinagrawalup">
   <img align="left" alt="Nitin Agrawal | Instagram" width="27px" src="https://raw.githubusercontent.com/nitinagrawalup/nitinagrawalup/main/logo/Instagram.png" />
 </a>
+
 </p>
 <br/>
 <br/>
