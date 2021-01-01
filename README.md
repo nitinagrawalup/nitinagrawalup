@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 <a href="https://www.linkedin.com/in/nitinagrawalup/">
-  <img align="left" alt="Nitin Agrawal | LinkedIn" width="27px" src="https://raw.githubusercontent.com/nitinagrawalup/nitinagrawalup/main/icon/LinkedIn.webp" />
+  <img align="left" alt="Nitin Agrawal | LinkedIn" width="27px" src="https://raw.githubusercontent.com/nitinagrawalup/nitinagrawalup/main/logo/LinkedIn.webp" />
 </a>
 
 <a href="https://www.codechef.com/users/nitinagrawalup">
