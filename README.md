@@ -39,6 +39,18 @@
   <img align="left" alt="Nitin Agrawal | Instagram" width="27px" src="https://raw.githubusercontent.com/nitinagrawalup/nitinagrawalup/main/logo/Instagram.png" />
 </a>
 
+<a href="https://www.quora.com/profile/Nitin-Agrawal-UP">
+  <img align="left" alt="Nitin Agrawal | Quora" width="27px" src="https://raw.githubusercontent.com/nitinagrawalup/nitinagrawalup/main/logo/Quora.png" />
+</a>
+
+<a href="https://www.youtube.com/channel/UC6zrsX1fCLNevsN7fs7QFCg">
+  <img align="left" alt="Nitin Agrawal | YouTube" width="27px" src="https://raw.githubusercontent.com/nitinagrawalup/nitinagrawalup/main/logo/YouTube.png" />
+</a>
+
+<a href="#">
+  <img align="left" alt="Nitin Agrawal | Website" width="27px" src="https://raw.githubusercontent.com/nitinagrawalup/nitinagrawalup/main/logo/Website.jpg" />
+</a>
+
 </p>
 <br/>
 <br/>
