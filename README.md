@@ -59,4 +59,4 @@
 <br/>
 <h1> Nitin's wakatime stats</h1>
 <br/>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nitinagrawalup" alt="nitinagrawalup" /></p>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nitinagrawalup" alt="nitinagrawalup" />
