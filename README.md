@@ -57,4 +57,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinagrawalup&" alt="nitinagrawalup" /></p>
 <br/>
-[![Nitin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nitinagrawalup&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Nitin's wakatime stats
+<br/>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nitinagrawalup" alt="nitinagrawalup" /></p>
+
