@@ -5,10 +5,12 @@
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinagrawalup&show_icons=true&locale=en" alt="nitinagrawalup" /></p>
 <br/>
 <!--🔭 I’m currently working on my mini project Online Banking System (Cloud, HTML, CSS & JS).<br/>-->
-🌱 I’m currently learning Automation Testing & API Testing.<br/>
-👯 I’m looking to collaborate on Web Dev projects.<br/>
+💼 I'm a skilled Software Testing Professional with over 2 years of experience in manual testing, test case creation, execution, defect tracking.<br/>
+🚀 My journey in tech has allowed me to work in both client-facing and testing role.</br/>
+🧠 I have a strong analytical mindset and attention to detail approach.</br/>
+🌱 Currently learning Automation Testing & API Testing.<br/>
 💬 Ask me about Testing.<br/>
-📫 How to reach me: @nitinagrawalup on twitter.<br/>
+📫 How to reach me: @nitinagrawalup on Linkedin<br/>
 😄 Pronouns: He/Him<br/>
 ⚡ Fun fact: I never say no for Coffee.<br/>
 
