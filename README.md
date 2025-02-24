@@ -43,6 +43,7 @@
 <br/>
 <br/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinagrawalup" alt="nitinagrawalup" /></p>
+<!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinagrawalup" alt="nitinagrawalup" /></p>-->
+<p align="center"><img align="center" src="https://github-readme-streak-stats.demolab.com/?user=nitinagrawalup" alt="nitinagrawalup" /></p>
 <br/>
 
